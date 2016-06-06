@@ -1,0 +1,3 @@
+add_lunch_combo citrus_onyx-user
+add_lunch_combo citrus_onyx-userdebug
+add_lunch_combo citrus_onyx-eng
