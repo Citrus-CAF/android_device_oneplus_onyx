@@ -181,7 +181,4 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 TARGET_LDPRELOAD := libNimsWrap.so
 
-# To be removed
-BLOCK_BASED_OTA := false
-
 -include vendor/oneplus/onyx/BoardConfigVendor.mk
